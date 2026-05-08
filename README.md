@@ -133,9 +133,6 @@ Full from-scratch implementation of **Decision Trees**, **Random Forests**, and 
 
 <div align="center">
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xAT47x&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xAT47x&layout=compact&theme=midnight-purple&hide_border=true)
 
 </td>
 </tr>
